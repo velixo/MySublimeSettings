@@ -9,5 +9,6 @@
 		"Vintage"
 	],
 	"margin": 6,
-	"shift_tab_unindent": true
+	"shift_tab_unindent": true,
+	"trim_trailing_white_space_on_save": true
 }
